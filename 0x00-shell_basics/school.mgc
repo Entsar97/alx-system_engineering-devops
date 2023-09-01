@@ -1,3 +1,4 @@
 #!/bin/bash
+ls -anvp
 0 string SCHOOL School data
 !:mime School
